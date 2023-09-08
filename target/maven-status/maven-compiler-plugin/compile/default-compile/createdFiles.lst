@@ -1,0 +1,12 @@
+app\domi\com\igu\Formulario$1.class
+app\domi\com\igu\Formulario$2.class
+app\domi\com\login\Login.class
+app\domi\com\logica\Usuario.class
+app\domi\com\logica\Controladora.class
+app\domi\com\igu\Formulario.class
+app\domi\com\persistencia\UsuarioJpaController.class
+app\domi\com\persistencia\exceptions\PreexistingEntityException.class
+app\domi\com\persistencia\ControladoraPersistencia.class
+app\domi\com\logica\Usuario_.class
+app\domi\com\persistencia\exceptions\IllegalOrphanException.class
+app\domi\com\persistencia\exceptions\NonexistentEntityException.class
